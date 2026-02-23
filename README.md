@@ -1,4 +1,4 @@
-# Server-Side Rendered Micro-Blogging App
+# SSR Community Forum
 
 <p align="center">
   <img src="/overview.png" alt="Awesome Image" width="600">
