@@ -1,4 +1,4 @@
-# Mini Anecdotes Project
+# Server-Side Rendered Micro-Blogging App
 
 <p align="center">
   <img src="/overview.png" alt="Awesome Image" width="600">
