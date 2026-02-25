@@ -4,7 +4,7 @@
   <img src="/overview.png" alt="Awesome Image" width="600">
 </p>
 
-This is a SSR Frontends compatations with a json-server backend. It includes vanilla React, React-toolkit, and a React-Query version.
+This is a SSR Frontends type comparation with a common json-server backend. It includes vanilla React, React-toolkit, and a React-Query version.
 
 ## Lives
 
